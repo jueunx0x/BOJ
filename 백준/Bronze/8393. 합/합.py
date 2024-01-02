@@ -1,5 +1,5 @@
-n=int(input())
-sum=0
-for i in range(1,n+1):
+A = int(input())
+sum = 0
+for i in range(1,A+1):
     sum+=i
 print(sum)
