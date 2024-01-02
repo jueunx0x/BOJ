@@ -1,3 +1,3 @@
-N=int(input())
+A = int(input())
 for i in range(1,10):
-    print(N,"*",i,"=",N*i)
+    print(f'{A} * {i} = {A*i}')
